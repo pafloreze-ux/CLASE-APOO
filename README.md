@@ -1,4 +1,4 @@
-# Proyecto Tutoría 002 - APOO
+# Proyecto Tutoría 002 - APOO - CONVOCATORIA
 
 ## Integrantes del CIPA:
 * Paula Andrea Florez Espinosa
